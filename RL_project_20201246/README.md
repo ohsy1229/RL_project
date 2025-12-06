@@ -17,7 +17,7 @@ RL이 초과성과를 낼 수 있는지 평가한다.
 
 ## 프로젝트 구조
 
-RL-Portfolio-Allocation/
+'''
 │
 ├── data/
 │ ├── raw/
@@ -53,7 +53,7 @@ RL-Portfolio-Allocation/
 │ └── figures/
 │
 └── README.md
-
+'''
 ---
 
 ## 데이터 구성
@@ -279,3 +279,4 @@ GitHub Releases에 업로드되어 있으며, 아래 링크에서 다운로드�
 - `ppo_cont_[config]_seed0.zip` — PPO Hyperparameter 실험 모델  
 
 ---
+
